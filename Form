@@ -1,0 +1,6 @@
+Name = input ('What is your Name? ')
+Age = input ('What is your Age? ')
+BirthYear = input ('What year were you born? ')
+Gender = input ('What is your gender? ')
+Answers = (Name + Age + BirthYear + Gender)
+print (Answers)
